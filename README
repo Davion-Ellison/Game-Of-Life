@@ -1,0 +1,14 @@
+Personal Implementation of Conway's Game of Life.
+
+NOTE:
+**Requires ffmpeg**
+
+Installation:
+
+Either run the makefile or compile the c file how you see fit.
+May need some modification to run on Windows (directories specifically).
+
+Usage:
+
+Running the binary with no options should print to console what options it needs.
+Should be fairly self-explanatory.
